@@ -1,5 +1,7 @@
 Jasper Charlinski
 
+-----------------------------------------------------------
+
 This is an implementation of a binary search tree in C++.
 
 Completed for CSCI161 at Vancouver Island University.
