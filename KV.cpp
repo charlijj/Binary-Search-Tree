@@ -2,7 +2,6 @@
 #include "KV.h"
 #include <iostream>
 
-// ========== the two easiest ones are already complete ==========
 
 int KVtree::size()
 {
@@ -14,8 +13,6 @@ void KVtree::printData(long key, std::string desc, double value)
    std::cout << key << ":" << value << ";" << desc << std::endl;
 }
 
-
-// ================= the rest are to be completed ===================
 
 KVtree::KVnode *KVtree::create(long key, std::string desc, double value)
 {
